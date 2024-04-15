@@ -15,3 +15,4 @@ The **'IPL_2008_2022_DATA_ANALYSIS_DASHBOARD.pbix'** file is part of an **IPL An
    - Creating KPIs and using various DAX functions.
    - Chart creation and formatting.
 
+![](C:\Users\Dell\OneDrive\Pictures\Screenshots\ipl_2008_2022_DASHBOARD.jpg)
